@@ -4,34 +4,23 @@ Motivated and detail-oriented software engineer with a focus on mobile applicati
 
 ## Skills
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 50%;">
-        - Object-oriented programming <br>
-        - Data Structure and Algorithms <br>
-        - In-depth understanding of programming Design Pattern <br>
-        - Version control system (Git) <br>
-        - Flutter & Dart <br>
-        - Caching <br>
-        - Google Maps <br>
-        - Geolocation <br>
-        - Open Street Map <br>
-        - WebView Apps <br>
-        - Cubit <br>
-        - JSON Serializable
-    </div>
-    <div style="flex: 50%;">
-        - Retrofit <br>
-        - Notifications (FCM, Pusher) <br>
-        - Clean Architecture <br>
-        - Localization <br>
-        - Clusters markers <br>
-        - Firebase (Firestore, Authentication, Realtime Database, Storage) <br>
-        - Xcode <br>
-        - Postman <br>
-        - CI/CD (Github Actions, Fastlane, Firebase Distribution) <br>
-        - Unit Testing
-    </div>
-</div>
+
+| ---------------------------------------- | ------------------------------------------|
+| - Object-oriented programming            | - Flutter & Dart                          |
+| - Data Structure and Algorithms          | - Caching                                 |
+| - In-depth understanding of              | - Google Maps                             |
+|    programming Design Pattern            |                                           |
+| - Version control system (Git)           | - Geolocation                             |
+| - Open Street Map                        | - WebView Apps                            |
+| - Cubit                                  | - JSON Serializable                       |
+| - Retrofit                               | - Notifications (FCM, Pusher)             |
+| - Clean Architecture                     | - Localization                            |
+| - Clusters markers                       | - Firebase (Firestore, Authentication,    |
+|                                          |    Realtime Database, Storage)            |
+| - Xcode                                  | - Postman                                 |
+| - CI/CD (Github Actions,                 |                                           |
+|   Fastlane, Firebase Distribution)       | - Unit Testing                            |
+----------------------------------------------------------------------------------------
 
 ## Projects
 
