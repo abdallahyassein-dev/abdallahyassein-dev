@@ -4,23 +4,28 @@ Motivated and detail-oriented software engineer with a focus on mobile applicati
 
 ## Skills
 
-
-| ---------------------------------------- | ------------------------------------------|
-| - Object-oriented programming            | - Flutter & Dart                          |
-| - Data Structure and Algorithms          | - Caching                                 |
-| - In-depth understanding of              | - Google Maps                             |
-|    programming Design Pattern            |                                           |
-| - Version control system (Git)           | - Geolocation                             |
-| - Open Street Map                        | - WebView Apps                            |
-| - Cubit                                  | - JSON Serializable                       |
-| - Retrofit                               | - Notifications (FCM, Pusher)             |
-| - Clean Architecture                     | - Localization                            |
-| - Clusters markers                       | - Firebase (Firestore, Authentication,    |
-|                                          |    Realtime Database, Storage)            |
-| - Xcode                                  | - Postman                                 |
-| - CI/CD (Github Actions,                 |                                           |
-|   Fastlane, Firebase Distribution)       | - Unit Testing                            |
-----------------------------------------------------------------------------------------
+- Object-oriented programming
+- Data Structure and Algorithms
+- In-depth understanding of programming Design Pattern
+- Version control system (Git)
+- Flutter & Dart
+- Caching
+- Google Maps
+- Geolocation
+- Open Street Map
+- WebView Apps
+- Cubit
+- JSON Serializable
+- Retrofit
+- Notifications (FCM, Pusher)
+- Clean Architecture
+- Localization
+- Clusters markers
+- Firebase (Firestore, Authentication, Realtime Database , Storage)
+- Xcode
+- Postman
+- CI/CD (Github Actions, Fastlane, Firebase Distribution)
+- Unit Testing
 
 ## Projects
 
