@@ -79,5 +79,5 @@ Stay informed with our Middle East news app, delivering concise and timely updat
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/abdallah-yassein/)
-
+-You can reach out to me via email at [Gmail](mailto:abdallah.work.1998@gmail.com).
 
