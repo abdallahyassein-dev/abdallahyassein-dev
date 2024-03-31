@@ -37,7 +37,7 @@ Platform connecting talent and employers through detailed profiles, and real-tim
 - Implemented features such as detailed profile showcases, CV uploads, location preferences, and real-time chat.
 - Developed a complementary Flutter website for enhanced accessibility.
 
-[![Android](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.elryad.mehan&pli=1) | [![iOS](https://img.shields.io/badge/iOS-Download-blue.svg)](https://apps.apple.com/us/app/mhn-plus-%D9%85%D9%87%D9%86-%D8%A8%D9%84%D8%B3/id6456401240) | [![Web](https://img.shields.io/badge/Web-Visit-blue.svg)](https://mhnplus.com/)
+[![Android](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.elryad.mehan&pli=1)  [![iOS](https://img.shields.io/badge/iOS-Download-blue.svg)](https://apps.apple.com/us/app/mhn-plus-%D9%85%D9%87%D9%86-%D8%A8%D9%84%D8%B3/id6456401240)  [![Web](https://img.shields.io/badge/Web-Visit-blue.svg)](https://mhnplus.com/)
 
 ### Meem Platform
 User-friendly educational app. From skill-building to personal enrichment, discover courses taught by experts, all in the palm of your hand. Your journey to learning.
@@ -57,7 +57,7 @@ Tourism Association in the historic town of Rajal aligns with Vision 2030, aimin
 - Ensured optimal user experience through seamless web content integration.
 - Created an intuitive interface, responsive design, and efficient functionality.
 
-[![Android](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.elryad.touristca) | [![iOS](https://img.shields.io/badge/iOS-Download-blue.svg)](https://apps.apple.com/us/app/tcara-%D8%AA%D9%83%D8%A7%D8%B1%D8%A7/id6449399114)
+[![Android](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.elryad.touristca)  [![iOS](https://img.shields.io/badge/iOS-Download-blue.svg)](https://apps.apple.com/us/app/tcara-%D8%AA%D9%83%D8%A7%D8%B1%D8%A7/id6449399114)
 
 ### Lewan
 Stay informed with our Middle East news app, delivering concise and timely updates on regional events.
@@ -66,13 +66,13 @@ Stay informed with our Middle East news app, delivering concise and timely updat
 - Enhanced the Middle East news app through extensive edits and optimizations.
 - Contributed to an improved user experience and content delivery.
 
-[![Android](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.liwan.app595&hl=en&gl=US) | [![iOS](https://img.shields.io/badge/iOS-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.liwan.app595&hl=en&gl=US)
+[![Android](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.liwan.app595&hl=en&gl=US)  [![iOS](https://img.shields.io/badge/iOS-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.liwan.app595&hl=en&gl=US)
 
 ### Other Projects
-- Elmokhtasar (E-Learning App): [![Android](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.liwan.app595&hl=en&gl=US)(https://play.google.com/store/apps/details?id=com.elryad.elmoktaser&hl=en&gl=US) - [![iOS](https://img.shields.io/badge/iOS-Download-blue.svg)](https://apps.apple.com/us/app/%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B5%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84/id6464169305)
-- Mawjood (Food Delivery App): [![User](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.gmk.userapp) - [![Delivery](https://img.shields.io/badge/Android-Download-blue.svg)](apps/details?id=com.gmk.deliveryapp) - [![Restaurant](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.gmk.restaurantapp)
-- BCC Club Chat (Live Chatting App): [![Android](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.bcc.chat) - [![iOS](https://img.shields.io/badge/iOS-Download-blue.svg)](https://apps.apple.com/us/app/bcc-club-chat/id1668432103)
-- Vertex (E-Commerce): [![Android](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.mutasem.vertex) - [![iOS](https://img.shields.io/badge/iOS-Download-blue.svg)](https://apps.apple.com/us/app/vertex/id6463097644)
+- Elmokhtasar (E-Learning App): [![Android](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.elryad.elmoktaser&hl=en&gl=US)  [![iOS](https://img.shields.io/badge/iOS-Download-blue.svg)](https://apps.apple.com/us/app/%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B5%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84/id6464169305)
+- Mawjood (Food Delivery App): [![User](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.gmk.userapp)  [![Delivery](https://img.shields.io/badge/Android-Download-blue.svg)](apps/details?id=com.gmk.deliveryapp)  [![Restaurant](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.gmk.restaurantapp)
+- BCC Club Chat (Live Chatting App): [![Android](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.bcc.chat)  [![iOS](https://img.shields.io/badge/iOS-Download-blue.svg)](https://apps.apple.com/us/app/bcc-club-chat/id1668432103)
+- Vertex (E-Commerce): [![Android](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.mutasem.vertex)  [![iOS](https://img.shields.io/badge/iOS-Download-blue.svg)](https://apps.apple.com/us/app/vertex/id6463097644)
 - Nader Transportation (Live Tracking App): [![iOS](https://img.shields.io/badge/iOS-Download-blue.svg)](https://apps.apple.com/sa/app/%D9%86%D8%A7%D8%AF%D8%B1-%D9%84%D9%84%D9%86%D9%82%D9%84/id6446181588)
 - Dalilkom (Services App): [![Android](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.elnooronline.dalilkoom)
 - Alsanaa Home (Service App): [![Android](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.elnooronline.sn3astore)
