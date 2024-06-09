@@ -24,6 +24,8 @@ Motivated and detail-oriented software engineer with a focus on mobile applicati
 - Firebase (Firestore, Authentication, Realtime Database , Storage)
 - Xcode
 - Postman
+- GraphQl
+- FVM
 - CI/CD (Github Actions, Fastlane, Firebase Distribution)
 - Unit Testing
 
