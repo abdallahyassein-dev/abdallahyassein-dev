@@ -40,7 +40,7 @@ User-friendly educational app. From skill-building to personal enrichment, disco
 - Created intuitive navigation and ensured a smooth learning experience for users across platforms.
 
 [![Android](https://img.shields.io/badge/Android-Download-blue.svg)](https://play.google.com/store/apps/details?id=com.elryad.meme&hl=en&gl=US)  [![iOS](https://img.shields.io/badge/iOS-Download-blue.svg)](https://apps.apple.com/us/app/%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9/id6456411469)
-[![App Gallery Huawei](https://img.shields.io/badge/Android-Download-blue.svg)](https://appgallery.huawei.com/app/C110793677)
+[![App Gallery Huawei](https://img.shields.io/badge/Huawei%20AppGallery-Download-red.svg)](https://appgallery.huawei.com/app/C110793677)
 
 
 ### Mhn Plus
