@@ -39,12 +39,6 @@ Currently, I am pursuing my **M.Sc. in Computer and Systems Engineering**, blend
 - Optimized streaming pipelines, resulting in a **35% increase in user engagement** and a 25% boost in course completion metrics.
 - 🔗 **Download:** [Android](https://play.google.com/store/apps/details?id=com.elryad.meme) | [iOS](https://apps.apple.com/us/app/%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9/id6456411469) | [Huawei AppGallery](https://appgallery.huawei.com/app/C110793677)
 
-#### 💼 Mhn Plus — Recruitment & Live Chat Platform
-*Mobile Engineer*
-- Developed a high-performance recruitment matching engine featuring responsive profiles and interactive CV builders.
-- Integrated real-time full-duplex chat services (Pusher/WebSockets) and localized global map criteria.
-- 🔗 **Download:** [Android](https://play.google.com/store/apps/details?id=com.elryad.mehan) | [iOS](https://apps.apple.com/us/app/mhn-plus-%D9%85%D9%87%D9%86-%D8%A8%D9%84%D8%B3/id6456401240) | [Web](https://mhnplus.com/)
-
 ---
 
 ### 🎙️ Teaching & Community Contributions
