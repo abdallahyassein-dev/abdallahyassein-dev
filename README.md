@@ -58,5 +58,5 @@ Currently, I am pursuing my **M.Sc. in Computer and Systems Engineering**, blend
 ### 📫 Connect with Me
 - **LinkedIn:** [in/abdallah-yassein](https://www.linkedin.com/in/abdallah-yassein/)
 - **Email:** abdallahyassein@yahoo.com 
-- **X (Twitter):** [https://x.com/abdallahyassein]
-- **Developer Hub (All Links):** [https://linktr.ee/abdallahyassein]
+- **X (Twitter):** https://x.com/abdallahyassein
+- **Developer Hub (All Links):** https://linktr.ee/abdallahyassein
