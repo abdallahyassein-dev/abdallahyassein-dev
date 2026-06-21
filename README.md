@@ -31,7 +31,7 @@ Currently, I am pursuing my **M.Sc. in Computer and Systems Engineering**, blend
 - Revamped the legacy system from scratch using Clean Architecture to support decoupled Consumer & Operator applications.
 - Engineered a real-time battery swapping telemetry layer using **SignalR WebSockets**, enabling sub-second grid inventory sync.
 - Integrated **Shorebird for Over-the-Air (OTA) updates**, allowing zero-delay hot-patching directly bypassing App Store bottlenecks.
-- 🔗 **Download:** [Android](https://play.google.com/store/apps/details?id=com.elryad.bluev) | [iOS](https://apps.apple.com/us/app/bluev) *(or check target store links)*
+- 🔗 **Download:** [Android](https://play.google.com/store/apps/details?id=com.bluev.users) | [iOS](https://apps.apple.com/us/app/%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9/id6456411469) 
 
 #### 🎓 Meem E-Learning Platform (150K+ Downloads)
 *Lead Mobile Developer*
